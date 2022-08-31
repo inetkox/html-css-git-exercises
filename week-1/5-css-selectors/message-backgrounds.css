@@ -1,0 +1,10 @@
+/* Add your CSS code below */
+#first-message {
+  background-color: rgb(255, 0, 0);
+}
+article {
+  background-color: rgb(95, 158, 160);
+}
+.message--latest {
+  background-color: rgb(255, 255, 0);
+}
