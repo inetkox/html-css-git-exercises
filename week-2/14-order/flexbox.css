@@ -3,3 +3,30 @@
 }
 
 /* Add your own CSS code below */
+ul.countries--first > .country--brazil {
+  order: 5;
+}
+
+ul.countries--second > .country--brazil {
+  order: 1;
+}
+
+ul.countries--second > .country--uganda {
+  order: 5;
+}
+
+ul.countries--third > .country--brazil {
+  order: 5;
+}
+
+ul.countries--third > .country--croatia {
+  order: 4;
+}
+
+ul.countries--third > .country--ethiopia {
+  order: 3;
+}
+
+ul.countries--third > .country--laos {
+  order: 2;
+}
